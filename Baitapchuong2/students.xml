@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<students>
+    <student>
+        <id>SV001</id>
+        <name>Mai Văn A</name>
+        <year>2003</year>
+        <class>KTPM1</class>
+        <gender>Nam</gender>
+    </student>
+    <student>
+        <id>SV002</id>
+        <name>Trần Thị B</name>
+        <year>2002</year>
+        <class>KTPM2</class>
+        <gender>Nữ</gender>
+    </student>
+    <student>
+        <id>SV003</id>
+        <name>Nguyễn Văn C</name>
+        <year>2003</year>
+        <class>KTPM3</class>
+        <gender>Nam</gender>
+    </student>
+</students>

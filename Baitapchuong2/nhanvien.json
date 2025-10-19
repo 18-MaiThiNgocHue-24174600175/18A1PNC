@@ -1,0 +1,37 @@
+[
+    {
+        "ma_nv": "NV01",
+        "ho_ten": "Nguyễn Văn A",
+        "gioi_tinh": "Nam",
+        "nam_sinh": 1990,
+        "don_vi": "A1"
+    },
+    {
+        "ma_nv": "NV02",
+        "ho_ten": "Trần Thị B",
+        "gioi_tinh": "Nữ",
+        "nam_sinh": 1992,
+        "don_vi": "A2"
+    },
+    {
+        "ma_nv": "NV03",
+        "ho_ten": "Lê Văn C",
+        "gioi_tinh": "Nam",
+        "nam_sinh": 1991,
+        "don_vi": "A1"
+    },
+    {
+        "ma_nv": "NV04",
+        "ho_ten": "Phạm Thị D",
+        "gioi_tinh": "Nữ",
+        "nam_sinh": 1993,
+        "don_vi": "A3"
+    },
+    {
+        "ma_nv": "NV05",
+        "ho_ten": "Nguyễn Văn E",
+        "gioi_tinh": "Nam",
+        "nam_sinh": 1995,
+        "don_vi": "A2"
+    }
+]
